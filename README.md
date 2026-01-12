@@ -23,12 +23,6 @@ node-fundamentos/
 ## ✨ O que você encontrará
 Cada pasta é dedicada a um tópico ou lição específica. Você encontrará exemplos de código e soluções para:
 
-- Variáveis ​​e Tipos de Dados
-- Condicionais (if/else, switch)
-- Laços (for, while)
-- Funções e Escopo
-- Matrizes e Objetos
-- Manipulação e Eventos do DOM
 
 ## 🚀 Como baixar e executar o projeto em outra máquina
 
