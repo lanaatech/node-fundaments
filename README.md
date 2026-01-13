@@ -3,7 +3,7 @@
 ## 📚 Visão Geral
 Este repositório contém uma coleção de exercícios e pequenos projetos que criei para aprender e praticar Node.js. É um caderno vivo da minha jornada no desenvolvimento backend.
 
-# 🛠️ Arquitetura do Projeto
+## 🛠️ Arquitetura do Projeto
 ```
 node-fundamentos/
 ├── /modulo_01
@@ -12,17 +12,16 @@ node-fundamentos/
 │ ├── atv03.js → Conversor de Escala Termométrica
 │ ├── atv04.js → Contagem regressiva 
 │ ├── atv05.js → Concatenador de Nome Completo
-│ ├── atv06.js → Concatenador de cor Favorita
+│ ├── atv06.js → Concatenador de Cor Favorita
 │ ├── atv07.js → Calculadora de Média Aritmética 
 │ ├── atv08.js → Verificador de Palíndromos
-│ ├── atv09.js → 
-│ ├── atv10.js →  
+│ ├── atv09.js → Concatenador de Informações
+│ ├── atv10.js → Calculadora de Idade
 └── ...
 ```
 
 ## ✨ O que você encontrará
 Cada pasta é dedicada a um tópico ou lição específica. Você encontrará exemplos de código e soluções para:
-
 
 ## 🚀 Como baixar e executar o projeto em outra máquina
 
@@ -48,6 +47,7 @@ JavaScript (Lógica principal)
 Node.js (Ambiente de execução)
 
 ## 💡 Lições Aprendidas
-Este projeto foi crucial para solidificar minha compreensão dos principais conceitos de JavaScript e aplica-lo para o backend.
+- Solicitação de informações ao usuário
+- Uso de bibliotecas node.js
 
 
