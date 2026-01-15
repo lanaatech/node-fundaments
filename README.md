@@ -1,4 +1,4 @@
-# Fundamentos de JavaScript
+# Fundamentos de Node.js
 
 ## 📚 Visão Geral
 Este repositório contém uma coleção de exercícios e pequenos projetos que criei para aprender e praticar Node.js. É um caderno vivo da minha jornada no desenvolvimento backend.
